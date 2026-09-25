@@ -1,4 +1,5 @@
-// 
+
+// for this toast
 function showToast(message) {
     const toast = document.createElement("div");
 
@@ -26,7 +27,7 @@ const navButtons = document.querySelectorAll(".nav-btn");
 
 const bookingSection = document.getElementById("booking");
 
-
+// for the smooth scroll
 bookButtons.forEach(function(button) {
     button.addEventListener("click", function(event) {
 
