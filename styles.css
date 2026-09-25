@@ -83,6 +83,16 @@ section h2 {
     margin-bottom: 30px;
 }
 
+.about-match {
+    text-align: center;
+}
+
+.about-match #demo {
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
 .btn {
     display: inline-block;
     background: var(--accent);
